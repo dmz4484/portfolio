@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm a senior Math and Computer Science major at the historic Tougaloo College interested in applying data science and machine learning methods to medicine, biology, and public health!",
-  skills: ["C++", "Python", "R", "Python", "MATLAB", "Wolfram Language", "SQL", "Xcode", "Git/Github", "Linux command line", "Jupyter Notebook"],
+  skills: ["C++", "Python", "R", "MATLAB", "Wolfram Language", "SQL", "Xcode", "Git/Github", "Linux command line", "Jupyter Notebook"],
   projects: [
     {
       name: "Patient Directory System",
